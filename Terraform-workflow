@@ -1,0 +1,9 @@
+$terraform init    -->    Will check the configuration file and intialize the .tf file
+
+$terraform plan    -->    Will show the actions that will be carried out by terraform to create the resources
+
+$terraform apply    -->    Will display the execution plan once again, then ask the user to confirm by typing "yes" to confirm
+
+$terraform show    -->    Running within the configuration directory to see the details of the resources that we just created
+
+$terraform destroy    -->    Will delete the resources
